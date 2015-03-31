@@ -16,7 +16,7 @@
                     <div class="thumbnail">
                         <img src="http://placehold.it/320x200" alt="ALT NAME" class="img-responsive" />
                         <div class="caption">
-                            <h3>Header Name</h3>
+                            <h3>Dân ca</h3>
                             
                             <p align="center"><a href="http://bootsnipp.com/" class="btn btn-primary btn-block">Open</a>
                             </p>
